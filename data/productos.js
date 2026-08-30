@@ -90,5 +90,25 @@ const productos = [
         precio: 27000,
         categoria: "desechables",
         imagen: "cristal-30k.jpg"
+    },    {
+        id: 12,
+        nombre: "SOLO BAR 35K DE PUFF",
+        precio: 28000,
+        categoria: "desechables",
+        imagen: "solobar-35k.jpg"
+    },
+        {
+        id: 13,
+        nombre: "EXTRE BAR 30K DE PUFF",
+        precio: 27000,
+        categoria: "desechables",
+        imagen: "extre-30k.jpg"
+    },
+        {
+        id: 14,
+        nombre: "ULIT SHELLET 60K DE PUFF",
+        precio: 40000,
+        categoria: "desechables",
+        imagen: "ulit-60k.jpg"
     },
 ];
